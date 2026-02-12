@@ -1,0 +1,28 @@
+Project Title: Bus Reservation System
+1. Introduction
+ Purpose: Define the objectives of the Bus Reservation System (BRS), including online
+booking, seat allocation, cancellation, and schedule management.
+Scope: The system will allow passengers to search buses, reserve seats, make payments, and
+receive tickets. Admins can manage bus schedules, routes, fares, and reservations.
+Definitions, Acronyms, Abbreviations:
+                o BRS: Bus Reservation System
+                o UI: User Interface
+                o DBMS: Database Management System
+References: IEEE SRS guidelines, institutional project standards, and bus transport policies.
+2. Overall Description
+ Product Perspective: The system is a web/mobile application integrated with a central database.
+ Product Features:
+          o User registration/login
+          o Bus search by route/date
+          o Seat reservation and cancellation
+          o Online payment gateway
+          o Ticket generation (PDF/Email/SMS)
+          o Admin dashboard for bus/fare management
+ User Classes and Characteristics:
+                  o Passenger: Books and cancels tickets.
+                  o Admin: Manages buses, routes, and reservations.
+                   o System: Handles seat allocation, payments, and notifications.
+ Operating Environment:
+                   o Web application (HTML, CSS, JavaScript, PHP/Java/Python)
+                   o Database (MySQL/PostgreSQL)
+                   o Mobile app (Android/iOS optional)
